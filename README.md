@@ -15,7 +15,7 @@ The models are trained and evaluated on the ShanghaiTech dataset, which provides
 
 
 ## Dataset
-- Dataset: ShanghaiTech (Part A + Part B)
+- Dataset: ShanghaiTech 
 - Includes:
   - Crowd images
   - Ground truth density maps (.h5 files)
