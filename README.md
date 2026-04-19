@@ -91,7 +91,5 @@ CSRNet: csrnet_final_weights.pth
 
 
 ## Conclusion
-MCNN works as a strong baseline model
-CSRNet improves performance in dense crowd scenarios
-Density-based approaches are effective for crowd counting
+This project successfully demonstrates crowd counting via density estimation using MCNN and CSRNet. While MCNN serves as a reliable baseline for multi-scale feature extraction, CSRNet delivers significantly superior accuracy in highly dense scenes by leveraging dilated convolutions to expand its receptive field without losing spatial resolution. Ultimately, the results validate that density-based CNN architectures are highly effective for robust crowd analysis in complex environments.
 
