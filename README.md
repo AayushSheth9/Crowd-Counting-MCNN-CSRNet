@@ -72,7 +72,7 @@ The output includes:
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-2. Upload dataset
+2. Upload dataset.zip to drive after downloading from the following link:
 ```
 https://www.kaggle.com/datasets/tthien/shanghaitech-with-people-density-map
 ```
