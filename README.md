@@ -1,7 +1,7 @@
 # Crowd Counting using MCNN and CSRNet
 
 ## Project Overview
-This project focuses on crowd counting using deep learning techniques. Two models — MCNN (Multi-Column Convolutional Neural Network) and CSRNet — are implemented to estimate the number of people in crowded images using density maps.
+This project focuses on crowd counting using deep learning techniques. Two models - MCNN (Multi-Column Convolutional Neural Network) and CSRNet - are implemented to estimate the number of people in crowded images using density maps.
 The models are trained and evaluated on the ShanghaiTech dataset, which provides images along with ground truth density maps.
 
 
