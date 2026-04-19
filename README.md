@@ -74,7 +74,7 @@ drive.mount('/content/drive')
 ```
 2. Upload dataset
 ```
-Upload your dataset zip file to Google Drive.
+https://www.kaggle.com/datasets/tthien/shanghaitech-with-people-density-map
 ```
 
 3. Run the script
