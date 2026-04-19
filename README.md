@@ -88,14 +88,6 @@ MCNN: mcnn_final_weights.pth
 CSRNet: csrnet_final_weights.pth
 
 
-## Project Structure
-project/
-│── main.py
-│── dataset/
-│── models/
-│── outputs/
-│── README.md
-
 
 ## Conclusion
 MCNN works as a strong baseline model
