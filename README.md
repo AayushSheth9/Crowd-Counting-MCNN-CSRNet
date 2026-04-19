@@ -79,7 +79,7 @@ Upload your dataset zip file to Google Drive.
 
 3. Run the script
 ```
-python main.py
+code.py
 ```
 
 
