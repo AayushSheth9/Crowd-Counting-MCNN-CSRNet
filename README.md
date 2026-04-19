@@ -73,7 +73,9 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 2. Upload dataset
+```
 Upload your dataset zip file to Google Drive.
+```
 
 3. Run the script
 ```
